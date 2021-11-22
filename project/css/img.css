@@ -1,0 +1,110 @@
+        .foto {
+            width: 90px!important;
+            height: 90px!important;
+        }
+        
+        .cheque__image_main___2lYDI {
+            width: 200px!important;
+            height: 532px!important;
+        }
+        
+        .logo {
+            width: auto!important;
+            height: 50px!important;
+        }
+        
+        .main___3PtHP {
+            display: flex;
+            justify-content: center
+        }
+        
+        .operatorControl__description___3SW8T {
+            margin-right: 20%;
+            margin-left: 19%;
+        }
+        
+        .indent___2TFKq {
+            margin-right: 34%;
+        }
+        
+        .header__info_left___3NfZ_ {
+            margin-left: 21%;
+            width: 35%;
+        }
+        
+        .item__icon___1u6S2 {
+            margin-left: 25%;
+            padding-right: 10px;
+        }
+        
+        .item___2P_yw {
+            display: flex;
+            align-items: center;
+            padding: 10px 0;
+            margin-right: 20%;
+            margin-left: 5%;
+        }
+        
+        .videos___3YoQ0 {
+            position: relative;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center!important;
+            flex-direction: unset;
+        }
+        
+        .videos__item_player___bnIEK {
+            height: 220px;
+            width: 1500px;
+        }
+        
+        .sectionTitle___24-Pr {
+            font-size: 32px;
+        }
+        
+        .withBg___3Z2TJ {
+            background-color: #F0F3F6;
+        }
+        
+        .header__info___ue9-C {
+            max-height: 600px;
+            padding: 40px 20px;
+            background: url(/проект/проект/karma/karma/src/images/comp.png) no-repeat top 20px right 55%;
+            background-size: auto 80%;
+        }
+        
+        thead th {
+            background-color: #DAE5EB;
+        }
+        
+        .price___2azVj tr,
+        .price___2azVj td {
+            font-size: 1rem;
+            padding: 5px;
+        }
+        
+        .content___JNyOq {
+            max-width: 1024px;
+            margin: 0 auto;
+            width: 100%;
+        }
+        
+        table {
+            border-collapse: separate;
+            text-indent: initial;
+            border-spacing: 2px;
+        }
+        
+        .fade-in-section___1lGpP {
+            opacity: 0;
+            -ms-transform: translateX(50px);
+            transform: translateX(50px);
+            -webkit-transform: translateX(50px);
+            visibility: hidden;
+            -webkit-transition: opacity 1200ms ease-out, visibility 1200ms ease-out, -webkit-transform 850ms ease-out;
+            transition: opacity 1200ms ease-out, visibility 1200ms ease-out, -webkit-transform 850ms ease-out;
+            -o-transition: opacity 1200ms ease-out, transform 850ms ease-out, visibility 1200ms ease-out;
+            transition: opacity 1200ms ease-out, transform 850ms ease-out, visibility 1200ms ease-out;
+            transition: opacity 1200ms ease-out, transform 850ms ease-out, visibility 1200ms ease-out, -webkit-transform 850ms ease-out;
+            will-change: opacity, transform, visibility;
+        }
